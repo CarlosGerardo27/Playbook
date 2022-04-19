@@ -1,0 +1,19 @@
+{
+  "name": "spiderverse",
+  "version": "1.0.0",
+  "description": "Spiderversr project for learning Test Driven Development (TDD)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules ./node_modules/jest/bin/jest.js"
+  },
+  "keywords": [
+    "Test",
+    "driven",
+    "Development"
+  ],
+  "author": "Carlos Gerardo RS",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
