@@ -1,0 +1,11 @@
+{
+  "name": "my_first_js_project",
+  "version": "1.0.0",
+  "description": "fisrt project using npm",
+  "main": "firtsproject.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carlos Rocha",
+  "license": "ISC"
+}
