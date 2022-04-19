@@ -4,7 +4,8 @@
   "description": "fisrt project using npm",
   "main": "firtsproject.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "author": "Carlos Rocha",
   "license": "ISC",
