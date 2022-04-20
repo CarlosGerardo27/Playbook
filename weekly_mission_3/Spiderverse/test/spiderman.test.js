@@ -1,4 +1,4 @@
-/* const Spiderman = require('../app/spiderman') */
+const Spiderman = require('./../app/spiderman')
 
 
 describe("Test Suite for spiderman Class", () => {
