@@ -1,0 +1,17 @@
+{
+  "name": "twitter",
+  "version": "1.0.0",
+  "description": "project twitter, fist sprint creating users object. This project is part of the launchx bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules ./node_modules/jest/bin/jest.js"
+  },
+  "keywords": [
+    "twitter"
+  ],
+  "author": "Carlos Gerardo RS",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
