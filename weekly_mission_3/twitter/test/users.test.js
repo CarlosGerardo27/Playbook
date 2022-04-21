@@ -25,4 +25,17 @@ describe("Pruebas de nuevo usuario", () => {
       
     })
 
+    test('prueba metodos Set', () => {
+
+        const user1 = new User (1,'Carlos27','Carlos Rocha','Aqui va la bio')
+
+
+        user1.setUserName = 'Carlos27RS'
+        expect(user1._username).toBe('Carlos27RS');
+
+        user1.setBio = 'Nació hace tiempo'
+        expect(user1._bio).toBe('Nació hace tiempo');
+      
+    })
+
   });
