@@ -1,0 +1,14 @@
+{
+  "name": "sprint-2-agregar-servicios",
+  "version": "1.0.0",
+  "description": "proyecto 4 semana 3 launch x, backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules ./node_modules/jest/bin/jest.js"
+  },
+  "author": "Carlos G. Rocha S.",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
