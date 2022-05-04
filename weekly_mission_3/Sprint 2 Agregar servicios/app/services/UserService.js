@@ -7,6 +7,10 @@ class UserService{
     static getInfo(user){
         return [user._id, user._username, user._name, user._bio,user._dateCreated, user._lastUpdated]
     }
+
+    static UpdateUserUsername(user, string){
+        return user._username = string;
+    }
 }
 
 module.exports = UserService
